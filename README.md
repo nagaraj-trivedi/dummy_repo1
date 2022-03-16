@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Advanced Regression House Price Prediction
+> This assignment predicts the price of the house
 
 
 ## Table of Contents
